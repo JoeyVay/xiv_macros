@@ -1,0 +1,21 @@
+Goal:
+- make a script for each hotbar to set up its slots. Always include a deicated "master control bar" as a small, semi-tranparent bar above the chat window that wil act as a menu launcher. Weh it expanded out to it top level it will have butons that will bring it down into a folder. The fildwer will have a back button to return to the top level. 
+
+Objectives:
+1. start with adding a script to build out current hotbard for ui macros
+-then be able to use a single button to toggle collapase it down into the toggle  
+-this will be the constructoer class for your homescreen launcher
+
+2.add new tabs that has the macros needed to build out the current hot bar locations 
+
+3.in smae tab add macros to build out current menu bars
+
+4. in same tab make a macro to set up clear the macros form the last step, and add a back macro to the top level launcher 
+
+5. build othr hotbar lays outs
+
+6. revape the shape based ui builder filtwrs in use currently 
+
+
+
+-metaphor: horizontal: browser + tabs or verticle: sidebar + folders
