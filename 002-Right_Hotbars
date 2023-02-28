@@ -1,7 +1,7 @@
-/hotbar copy THM 6 share 7
-/hotbar copy  THM 7 share 7
-/hotbar copy THM 8 share 8
+/hotbar copy THM 5 share 5
+/hotbar copy  THM 6 share 6
+/hotbar copy THM 8 share 7
+/hotbar display 5 [on/off]
 /hotbar display 6 [on/off]
 /hotbar display 7 [on/off]
-/hotbar display 8 [on/off]
 /micon "Target Forward" general
