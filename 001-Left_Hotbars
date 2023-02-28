@@ -1,4 +1,5 @@
+/hotbar copy THM 3 share 3
+/hotbar copy  THM 4 share 4
 /hotbar display 3 [on/off]
 /hotbar display 4 [on/off]
-/hotbar display 5 [on/off]
 /micon "Target Back" general
