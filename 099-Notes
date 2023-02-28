@@ -1,0 +1,13 @@
+#moving (cross)hotbars around
+/crosshotbar copy share 8 current 7
+/hotbar copy blm 8 wev 7
+
+#Icons
+/micon "Target Backword" general
+/micon "Target Forward" general
+
+/micon "Triangle" enemysign
+/micon "Square" enemysign
+/micon "Circle" enemysign
+
+/micon "Black Mage" classjob

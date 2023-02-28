@@ -1,0 +1,4 @@
+/hud "Minimap" [on/off]
+/hud "DutyList" [on/off]
+/hud "ScenarioGuide" [on/off]
+/micon "Circle" enemysign

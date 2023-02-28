@@ -1,0 +1,4 @@
+/hotbar display 6 [on/off]
+/hotbar display 7 [on/off]
+/hotbar display 8 [on/off]
+/micon "Target Forward" general

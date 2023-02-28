@@ -1,0 +1,15 @@
+/hud "Crosshotbar" off
+/hud "ParamBar" off
+/hud "Minimap" off
+/hud "DutyList" off
+/hud "ScenarioGuide" off
+/hud "ExpBar" off
+/hud "ServerInfo" off
+/hud "PartyList" off
+/hud "EnemyList" off
+/hud "Inventorygrid" off
+/hud "ExpBar" off
+/hud "Gil" off
+/hud "LimitGauge" off
+/bm off
+/micon "Square" enemysign

@@ -1,0 +1,5 @@
+/hud "Crosshotbar" [on/off]
+/hud "ParamBar" [on/off]
+/hud "PartyList" [on/off]
+/hud "EnemyList" [on/off]
+/micon "Plus" enemysign
