@@ -1,0 +1,12 @@
+/hotbar copy THM 3 share 3
+/hotbar copy  THM 4 share 4
+/hotbar copy THM 5 share 5
+/hotbar copy  THM 6 share 6
+/hotbar copy THM 7 share 7
+/hotbar copy  THM 8 share 8
+/hotbar copy THM 9 share 9
+/hotbar copy  THM 10 share 10
+/crosshotbar copy THM1 share 1
+/crosshotbar copy THM 2 share 2
+/crosshotbar copy THM 3 share 3
+/micon "Target Back" general

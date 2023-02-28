@@ -1,0 +1,12 @@
+/hotbar copy share 3 GLA 3
+/hotbar copy share 4 GLA 4
+/hotbar copy share 5 GLA 5
+/hotbar copy share 6 GLA 6
+/hotbar copy share 7 GLA 7
+/hotbar copy share 8 GLA 8
+/hotbar copy share 9 GLA 9
+/hotbar copy share 10 GLA 10
+/crosshotbar copy share 1 GLA 1
+/crosshotbar copy share 2 GLA 2
+/crosshotbar copy share 3 GLA 3
+/micon "Target Forward" general
