@@ -3,13 +3,12 @@
 /hud "Minimap" off
 /hud "DutyList" off
 /hud "ScenarioGuide" off
+/hotbar copy share 2 GLA 2
 /hud "ExpBar" off
 /hud "ServerInfo" off
-/hud "PartyList" off
-/hud "EnemyList" off
+
 /hud "Inventorygrid" off
 /hud "ExpBar" off
 /hud "Gil" off
-/hud "LimitGauge" off
-/bm off
+/hotbar display 2 off
 /micon "Square" enemysign

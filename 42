@@ -1,0 +1,7 @@
+/hotbar copy  GLA 6 share 6
+/hotbar copy GLA 7 share 7
+/hotbar copy  GLA 8 share 8
+/hotbar display 6 [on/off]
+/hotbar display 7 [on/off]
+/hotbar display 8 [on/off]
+/micon "Target to Attack 4"  enemysign

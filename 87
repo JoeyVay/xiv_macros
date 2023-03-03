@@ -1,0 +1,7 @@
+/hotbar display 5 [on/off]
+/hotbar display 1 [on/off]
+/hotbar display 8 [on/off]
+/micon "THM" classjob
+
+/hotbar display 9 off
+/bm [on/off]

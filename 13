@@ -1,6 +1,9 @@
+/hotbar copy GLA 2 share 2
+/hotbar display 2 [on/off]
 /hud "ServerInfo" [on/off]
 /hud "Inventorygrid" [on/off]
 /hud "ExpBar" [on/off]
 /hud "Gil" [on/off]
 /hud "LimitGauge" [on/off]
+
 /micon "Triangle" enemysign

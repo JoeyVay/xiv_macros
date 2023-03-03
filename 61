@@ -1,5 +1,4 @@
 /hotbar copy GLA 4 share 7
 /hotbar copy GLA 5 share 6
-/hotbar display 5 off
 /hotbar display 6 [on/off]
 /hotbar display 7 [on/off]

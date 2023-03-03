@@ -1,0 +1,4 @@
+/hotbar display 6 off
+/hotbar display 7 off
+/hotbar copy  share 6 THM 5
+/hotbar copy  share 7 THM 6
